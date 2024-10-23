@@ -12,9 +12,3 @@ My Interests:
     📈 Social media marketing and strategy
 
     ✉️  You can contact me at sanaghulam97@gmail.com
-
-    skills:
-    https://developer.mozilla.org/en-US/docs/Web/JavaScript
-    
-    
-    
