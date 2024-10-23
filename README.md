@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi there, I'm Sana Ghulam Muhammad! 👋
 
-<!--
-**SanaGhulamMuhammad/SanaGhulamMuhammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a dedicated Software Engineering student with a passion for Frontend Development. I specialize in creating dynamic web applications by using HTML, CSS,and JavaScript along with React . My goal is to build intuitive and user-friendly interfaces that enhance the overall user experience.
 
-Here are some ideas to get you started:
+In addition to my coding expertise, I have a strong background in Graphic Design, focusing on UI/UX design. I enjoy combining aesthetics with functionality to create visually appealing designs that resonate with users.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm also experienced in Social Media Marketing, where I help businesses grow their online presence and engage effectively with their audience through strategic content and campaigns.
+My Interests:
+
+    🌐 Frontend development using React
+    🎨 Designing user-friendly interfaces
+    📈 Social media marketing and strategy
+
+    ✉️  You can contact me at sanaghulam97@gmail.com
+
+    skills:
+    https://developer.mozilla.org/en-US/docs/Web/JavaScript
+    
+    
+    
